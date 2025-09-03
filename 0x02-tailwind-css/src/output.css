@@ -2,6 +2,9 @@
 .block {
   display: block;
 }
+.flex {
+  display: flex;
+}
 .grid {
   display: grid;
 }
@@ -10,6 +13,9 @@
 }
 .grid-cols-3 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.justify-center {
+  justify-content: center;
 }
 .text-center {
   text-align: center;
