@@ -1,7 +1,4 @@
 /*! tailwindcss v4.1.12 | MIT License | https://tailwindcss.com */
-.block {
-  display: block;
-}
 .flex {
   display: flex;
 }
@@ -16,9 +13,6 @@
 }
 .justify-center {
   justify-content: center;
-}
-.text-center {
-  text-align: center;
 }
 @media (max-width: 768px) {
   main {
