@@ -56,14 +56,14 @@ By the end of this project, you should be able to:
 
 ## ✅ Tasks & Solutions
 
-| #   | Task              | Description                                                    | Solution                                                                  |
-| --- | ----------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 0   | **Project Setup** | Install & set up SASS, document steps                          | [0-installation-script](./0x03-sass_scss/0-installation-script)           |
-| 1   | **Debug Log**     | Sass file that prints `"Hello world"` in debug output          | [0-debug_log.scss](./0x03-sass_scss/0-debug_log.scss)                     |
-| 2   | **Variables**     | Assign text color `#3D3D3D` to `body` and `p` using a variable | [1-color_variable.scss](./0x03-sass_scss/1-color_variable.scss)           |
-| 3   | **Nesting**       | Apply margin & padding rules using nested declarations         | [2-nested_tag.scss](./0x03-sass_scss/2-nested_tag.scss)                   |
-| 4   | **Mixins**        | Apply margins to `body` and `div` using a reusable mixin       | [3-mixin_margins.scss](./0x03-sass_scss/3-mixin_margins.scss)             |
-| 5   | **Manual Review** | Submit project for peer review                                 | [Review Link](https://savanna.alxafrica.com/corrections/93780937/correct) |
+| #   | Task              | Description                                                    | Solution                                                                                  |
+| --- | ----------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 0   | **Project Setup** | Install & set up SASS, document steps                          | [0-installation-script](./alx-intermediate-frontend/0x03-sass_scss/0-installation-script) |
+| 1   | **Debug Log**     | Sass file that prints `"Hello world"` in debug output          | [0-debug_log.scss](./alx-intermediate-frontend/0x03-sass_scss/0-debug_log.scss)           |
+| 2   | **Variables**     | Assign text color `#3D3D3D` to `body` and `p` using a variable | [1-color_variable.scss](./alx-intermediate-frontend/0x03-sass_scss/1-color_variable.scss) |
+| 3   | **Nesting**       | Apply margin & padding rules using nested declarations         | [2-nested_tag.scss](./alx-intermediate-frontend/0x03-sass_scss/2-nested_tag.scss)         |
+| 4   | **Mixins**        | Apply margins to `body` and `div` using a reusable mixin       | [3-mixin_margins.scss](./alx-intermediate-frontend/0x03-sass_scss/3-mixin_margins.scss)   |
+| 5   | **Manual Review** | Submit project for peer review                                 | [Review Link](https://savanna.alxafrica.com/corrections/93780937/correct)                 |
 
 ---
 
