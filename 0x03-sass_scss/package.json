@@ -1,0 +1,15 @@
+{
+  "name": "0x03-sass_scss",
+  "version": "1.0.0",
+  "description": "SASS/SCSS for efficient stylinng ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Musakalamz",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.19.5",
+    "sass": "^1.92.1"
+  }
+}
