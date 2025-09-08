@@ -1,13 +1,5 @@
 # 📌 ProDev Frontend – SASS/SCSS for Efficient Styling
 
-**Average:** 130.0%  
-**Level:** Novice  
-**Weight:** 1
-
-**Duration:** Sep 8, 2025 → Sep 15, 2025  
-**Repo:** [alx-intermediate-frontend](https://github.com/Musakalamz/alx-intermediate-frontend)  
-**Directory:** `0x03-sass_scss`
-
 ---
 
 ## 📖 Overview
