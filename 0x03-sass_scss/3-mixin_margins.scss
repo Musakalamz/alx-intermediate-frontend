@@ -1,0 +1,12 @@
+@mixin margin_left_and_right($num) {
+  margin-left: $num * 1px;
+  margin-right: $num * 1px;
+}
+
+body {
+  @include margin_left_and_right(15);
+}
+
+div {
+  @include margin_left_and_right(15);
+}
